@@ -1,0 +1,41 @@
+CarrierName,time_of_day,avg_delay
+Lufthansa,afternoon,35.421052631578945
+Qantas,afternoon,38.92156862745098
+Air France,afternoon,44.03061224489796
+Delta Airlines,afternoon,44.161490683229815
+American Airlines,afternoon,44.782051282051285
+British Airways,afternoon,45.318407960199
+Southwest Airlines,afternoon,47.15217391304348
+Emirates,afternoon,48.32786885245902
+United Airlines,afternoon,48.80434782608695
+Singapore Airlines,afternoon,50.78787878787879
+Qantas,evening,38.46153846153846
+British Airways,evening,41.986577181208055
+Delta Airlines,evening,41.98726114649681
+Singapore Airlines,evening,44.285714285714285
+Emirates,evening,45.25333333333333
+United Airlines,evening,45.52173913043478
+American Airlines,evening,47.30508474576271
+Southwest Airlines,evening,49.253246753246756
+Lufthansa,evening,50.220689655172414
+Air France,evening,54.0314465408805
+American Airlines,morning,39.1375
+Delta Airlines,morning,42.17578125
+Qantas,morning,42.593869731800766
+Air France,morning,43.68727272727273
+Lufthansa,morning,44.48995983935743
+United Airlines,morning,44.63179916317991
+Southwest Airlines,morning,45.1
+British Airways,morning,46.51546391752577
+Emirates,morning,46.80952380952381
+Singapore Airlines,morning,48.18819188191882
+Delta Airlines,night,41.420711974110034
+Singapore Airlines,night,41.65064102564103
+Emirates,night,42.98679867986799
+American Airlines,night,44.592465753424655
+Qantas,night,44.673469387755105
+United Airlines,night,44.944983818770226
+Air France,night,46.350819672131145
+Southwest Airlines,night,46.438709677419354
+Lufthansa,night,47.77739726027397
+British Airways,night,47.83699059561128
